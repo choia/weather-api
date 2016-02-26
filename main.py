@@ -3,7 +3,7 @@ import json
 import time
 
 api_url = 'http://api.wunderground.com/api/'
-api_key = 'bddadf15197d9379'
+api_key = 'ENTER YOUR API KEY HERE'
 api_features = '/conditions/q/'
 api_location = 'GA/Dunwoody.json'
 
